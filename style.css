@@ -1614,8 +1614,9 @@ img {
   border-radius: 50%;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 91px;
-  flex: 0 0 45px;
+  flex: 0 0 50px;
   line-height: 49px;
   font-size: 20px;
   text-align: center;
+  margin: 0 3px;
 }
