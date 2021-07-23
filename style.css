@@ -1278,18 +1278,16 @@ img {
 }
 
 .academy-pagination-area .pagination .page-item .page-link {
-  width: 36px;
   height: 36px;
   background-color: #eef3f6;
   display: block;
-  padding: 0;
+  padding: 10px;
   border: none;
   margin-right: 10px;
   color: #242424;
   font-size: 12px;
   font-weight: 600;
   text-align: center;
-  line-height: 36px;
 }
 .academy-pagination-area .pagination .page-item .page-link:hover,
 .academy-pagination-area .pagination .page-item .page-link:focus {
@@ -1615,7 +1613,7 @@ img {
   -webkit-box-flex: 0;
   -ms-flex: 0 0 91px;
   flex: 0 0 50px;
-  line-height: 50px;
+  line-height: 49px;
   font-size: 20px;
   text-align: center;
   margin: 0 3px;
@@ -1626,7 +1624,7 @@ img {
     width: 30px;
     height: 30px;
     flex: 0 0 30px;
-    line-height: 30px;
+    line-height: 27px;
     font-size: 15px;
   }
 }
